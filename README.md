@@ -108,12 +108,6 @@ video_heatmapper = VideoHeatmapper(
 
 ![reveal colour scheme](/heatmappy/assets/reveal.png?raw=true)
 
-
-# Coming soon
-
-- Can specify different point size for each point plotted.
-
-
 # License
 
 MIT License.
