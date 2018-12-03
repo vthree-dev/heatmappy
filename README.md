@@ -9,9 +9,14 @@ Draw image and video heatmaps in python
 
 ![video heatmap](/examples/example.gif?raw=true)
 
+# Platform
+
+- Unix
+- Python3
+
 # Install
 
-`pip install heatmappy`
+`python setup.py install`
 
 # Requirements
 
